@@ -4,3 +4,4 @@ access.log
 /repo-mixed
 /repo
 *.log
+temp/
