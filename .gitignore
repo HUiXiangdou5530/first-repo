@@ -3,3 +3,4 @@ access.log
 /repo-hard
 /repo-mixed
 /repo
+*.log
